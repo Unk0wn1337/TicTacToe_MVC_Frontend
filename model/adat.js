@@ -1,0 +1,1 @@
+export const OBJEKTUM_LISTA = [" "," "," "," "," "," "," "," "," "];
